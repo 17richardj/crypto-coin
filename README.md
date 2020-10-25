@@ -1,2 +1,2 @@
 # crypto-coin
-Crypto coin built on Node.js and leveraging proof of work algorithm
+Simple Crypto currency built on Node.js. Leverages proof of work algorithm.
