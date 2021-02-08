@@ -4,4 +4,8 @@
 ## What is Oodle
 Simple crypto currency built on Node.js. Leverages proof of work algorithm.
 
+## How it Works
+
 ## Usage
+
+## Reference
